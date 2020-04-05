@@ -276,7 +276,7 @@ def run_bot(r, comment_replied_to):
                             'I will not let the White city fall nor our people fail.',
                             '[Let us together rebuild this world that we may share in the days of peace.](https://www.youtube.com/watch?v=W6t9OF8_3n8)',
                             'The best revenge is letting go and living well.',
-                            'Tis the lay of Luthien. The elf-maiden who gave her love to Beren a mortal!',
+                            'Tis the lady of Luthien. The elf-maiden who gave her love to Beren a mortal!',
                             'HES TRYING TO BRING DOWN THE MOUNTAIN! GANDALF WE MUST TURN BACK!',
                             'I swore to protect you.',
                             'If by my life or death I can protect you, I will. You have my sword.', 'You have my sword'
