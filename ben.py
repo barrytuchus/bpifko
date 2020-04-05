@@ -255,7 +255,7 @@ def run_bot(r, comment_replied_to):
 
                         with open("comment_replied_to.txt", "a") as f:
                             f.write(comment.id + "\n")
-                # If someone says Aragorn plus Strider
+                # 
 
                 # if some comedian says penis or dick
                 for keyword in humor:
